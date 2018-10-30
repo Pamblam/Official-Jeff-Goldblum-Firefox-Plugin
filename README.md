@@ -8,5 +8,12 @@
  - Suck all the fun out of Imgur!
  - Confuse the hell out of anyone that uses Firefox!
 
+<hr>
 
+#### Install via FF Addons Page:
 
+Hit the blue button on [this page](https://addons.mozilla.org/en-US/firefox/addon/goldblumify/). (Won't work until Mozilla approves the code.)
+
+#### Install temporarily:
+
+Download the enire plugin, then open [`about:debugging`](about:debugging) in Firefox, click 'Load Temporary Addon', navigate to and open the addon's manifest.json file.
