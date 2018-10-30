@@ -12,7 +12,7 @@
 
 #### Install via FF Addons Page:
 
-Hit the blue button on [this page](https://addons.mozilla.org/en-US/firefox/addon/goldblumify/). (Won't work until Mozilla approves the code.)
+Hit the blue button on [this page](https://addons.mozilla.org/en-US/firefox/addon/goldblumify/).
 
 #### Install temporarily:
 
