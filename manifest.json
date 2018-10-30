@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"name": "Goldblumify",
+	"version": "1.0",
+	"description": "Jeff Goldblum Everywhere",
+	"content_scripts": [{
+		"matches": ["<all_urls>"],
+		"js": ["g.js"]
+	}]
+}
