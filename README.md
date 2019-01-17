@@ -1,7 +1,12 @@
 
-# The Official Jeff Goldblum Firefox Plugin
+# The Official Jeff Goldblum Firefox Plugin (v.2.0)
 
-![enter image description here](https://i.imgur.com/Vz9t4sI.png)
+![enter image description here](https://i.imgur.com/JrkwHE4.png)
+
+![enter image description here](https://i.imgur.com/O7gHWN1.jpg)
+
+![enter image description here](https://i.imgur.com/l5BtrDq.png)
+
 ### Jeff-Goldblumify *Every* Website!
 
  - Prank your parents!

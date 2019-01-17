@@ -1,0 +1,24 @@
+{
+  "name": "official-jeff-goldblum-firefox-plugin",
+  "version": "1.0.0",
+  "description": "Jeff-Goldblumify every website!",
+  "main": "g.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pamblam/Official-Jeff-Goldblum-Firefox-Plugin.git"
+  },
+  "keywords": [
+    "Jeff",
+    "Goldblum",
+    "Firefox"
+  ],
+  "author": "Rob Parham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pamblam/Official-Jeff-Goldblum-Firefox-Plugin/issues"
+  },
+  "homepage": "https://github.com/Pamblam/Official-Jeff-Goldblum-Firefox-Plugin#readme"
+}
